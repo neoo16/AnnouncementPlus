@@ -1,6 +1,6 @@
-# AnnouncementPlus & SmoothChat
+# AnnouncementPlus
 
-Professional Minecraft server plugins designed to enhance server experience with announcements and chat customization.
+Professional Minecraft server plugins designed to enhance server experience with announcements.
 
 ---
 
@@ -12,17 +12,10 @@ Professional Minecraft server plugins designed to enhance server experience with
 - Supports `/announcement <message>` command.
 - Includes a console startup banner with plugin info.
 
-### SmoothChat
-- Customize chat message colors per player.
-- Players can change their chat color using `/chatstyle <color>`.
-- Welcome messages with sound effects on player join.
-- Smooth chat experience for all players.
-
 ---
 
 ## Features
-- Easy-to-use commands for admins and players.
-- Professional-looking messages and announcements.
+- Easy-to-use commands for admins
 - Fully compatible with Paper 1.21.10 servers.
 - Minimal performance impact.
 
@@ -32,10 +25,6 @@ Professional Minecraft server plugins designed to enhance server experience with
 
 ### AnnouncementPlus
 - `/announcement <message>` → Broadcast a message to all players.
-
-### SmoothChat
-- `/chatstyle <color>` → Change your chat message color.  
-  Available colors: `BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE`
 
 ---
 
